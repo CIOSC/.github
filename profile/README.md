@@ -9,5 +9,7 @@ The CIO Strategy Council is Canada’s primary national forum bringing together 
 * **STANDARDS & TECHNOLOGY** Standards are established by the collective and collaborative efforts of the Council to inform the design, set the rules and accelerate technology  adoption. The Standards Council of Canada accredited the CIO Strategy Council to develop National Standards of Canada.
 *  **SKILLS AND TALENT** Working together, Council members and its strategic partners provide guidance to help address the challenges and opportunities facing the future of work in order to keep Canada’s ICT talent competitive within the global economy.
 
+Contribute to our flagship conformity assessment schemes in the pinned respositories below.
+
 Visit our home page at <https://ciostrategycouncil.com/>
 
