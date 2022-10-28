@@ -11,5 +11,5 @@ The CIO Strategy Council is Canada’s primary national forum bringing together 
 
 Contribute to our flagship conformity assessment schemes in the pinned respositories below.
 
-Visit our home page at <https://ciostrategycouncil.com/>
+Visit our home page at <https://ciostrategycouncil.com/> and become a member.
 
