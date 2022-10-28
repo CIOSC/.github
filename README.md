@@ -1,2 +1,1 @@
-# .github
-CIO Strategy Council
+# CIO Strategy Council
