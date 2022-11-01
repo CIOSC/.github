@@ -16,5 +16,5 @@ Contribute to our flagship conformity assessment schemes in the respositories be
 * [Conformity Assessment Scheme: Digital Trust and Identity](https://github.com/CIOSC/CAS-Digital-Trust-and-Identity)
 * [Conformity Assessment Scheme: Digital Credentials](https://github.com/CIOSC/CAS-Digital-Credentials)
 
-
+If you are a [CIOSC Member](https://ciostrategycouncil.com/membership/), you can participate in our Pilot Engagement Program at no cost. 
 
