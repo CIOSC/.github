@@ -11,7 +11,10 @@ The CIO Strategy Council is Canada’s primary national forum bringing together 
 
 Visit our home page at <https://ciostrategycouncil.com/> and become a member.
 
-Contribute to our flagship conformity assessment schemes in the pinned respositories below.
+Contribute to our flagship conformity assessment schemes in the respositories below.
+
+* [Conformity Assessment Scheme: Digital Trust and Identity](https://github.com/CIOSC/CAS-Digital-Trust-and-Identity)
+* [Conformity Assessment Scheme: Digital Credentials](https://github.com/CIOSC/CAS-Digital-Credentials)
 
 
 
