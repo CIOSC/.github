@@ -1,4 +1,4 @@
-# CIO Strategy Council
+# Digital Governance Council|Conseil de Gouvernance Numérique
 ## Transformation through collaboration
 
 The CIO Strategy Council is Canada’s primary national forum bringing together the country’s most forward-thinking chief information officers and executive technology leaders to collectively mobilize on common digital priorities. 
