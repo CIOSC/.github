@@ -1,20 +1,24 @@
 # Digital Governance Council|Conseil de Gouvernance Numérique
-## Transformation through collaboration
+## Powering Trust In Canada’s Digital Economy
 
-The CIO Strategy Council is Canada’s primary national forum bringing together the country’s most forward-thinking chief information officers and executive technology leaders to collectively mobilize on common digital priorities. 
+The Digital Governance Council is Canada’s only national body for delivering a coordinated national approach to digital governance.
 
 ## What We Do
 
-* **STRATEGIC LEADERSHIP** Regular Council meetings are held, and strategic partnerships are fostered to engage thought leaders and experts nation-wide in discussion and collaboration – accelerating research, policy and solution development on key ICT-related issues impacting CIOs and Canadian society at-large.
-* **STANDARDS & TECHNOLOGY** Standards are established by the collective and collaborative efforts of the Council to inform the design, set the rules and accelerate technology  adoption. The Standards Council of Canada accredited the CIO Strategy Council to develop National Standards of Canada.
-*  **SKILLS AND TALENT** Working together, Council members and its strategic partners provide guidance to help address the challenges and opportunities facing the future of work in order to keep Canada’s ICT talent competitive within the global economy.
+The Digital Governance Council works through its members across the public and private sectors to strengthen trust in Canada’s digital economy by collaboratively identifying, prioritizing and acting on digital governance opportunities and challenges.
 
-Visit our home page at <https://ciostrategycouncil.com/> and become a member.
+* **Executive Forum** The Executive Forum provides a neutral environment for Canadian executives to engage in dialogue, learn, share and advance digital governance to inform, innovate and act.
+* **Digital Governance Standards** The Digital Governance Standards Institute, accredited by the Standards Council of Canada to develop national standards for Canada, works through volunteers, experts and partners to develop national digital governance standards.
+* **Certification** The Council assesses and certifies the compliance of organizations with the digital governance standards developed by the Digital Governance Standards Institute. Certification by the Council is a mark of trust for Canadians and organizations everywhere.
+
+## Make A Difference
+
+Visit our home page at <https://dgc-cgn.org/> and become a member.
 
 Contribute to our flagship conformity assessment schemes in the respositories below.
 
 * [Conformity Assessment Scheme: Digital Trust](https://github.com/CIOSC/CAS-Digital-Trust)
 * [Conformity Assessment Scheme: Digital Credentials](https://github.com/CIOSC/CAS-Digital-Credentials)
 
-If you are a [CIOSC Member](https://ciostrategycouncil.com/membership/), you can participate in our Pilot Engagement Program at no cost. 
+If you are a [DGC-CGN Member](https://dgc-cgn.org/membership/), you can participate in our Pilot Engagement Program at no cost. 
 
