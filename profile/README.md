@@ -13,7 +13,7 @@ Visit our home page at https://ciostrategycouncil.com/ and become a member.
 
 Contribute to our flagship conformity assessment schemes in the respositories below.
 
-* Conformity Assessment Scheme: Digital Trust
-* Conformity Assessment Scheme: Digital Credentials
+* Conformity Assessment Scheme: [Digital Trust](https://github.com/CIOSC/CAS-Digital-Trust)
+* Conformity Assessment Scheme: [Digital Credentials](https://github.com/CIOSC/CAS-Digital-Credentials)
 
 If you are a CIOSC Member, you can participate in our Pilot Engagement Program at no cost.
