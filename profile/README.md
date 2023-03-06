@@ -23,7 +23,9 @@ Visit our home page at https://dgc-cgn.org/ and become a member.
 
 Contribute to our flagship conformity assessment schemes in the respositories below.
 
-* Conformity Assessment Scheme: [Digital Trust](https://github.com/CIOSC/CAS-Digital-Trust)
-* Conformity Assessment Scheme: [Digital Credentials](https://github.com/CIOSC/CAS-Digital-Credentials)
+** The links below are to the new repos DGC=
+
+* Conformity Assessment Scheme: [Digital Trust](https://github.com/dgc-cgn/CAS-Digital-Trust)
+* Conformity Assessment Scheme: [Digital Credentials](https://github.com/dgc-cgn/CAS-Digital-Credentials)
 
 If you are a DGC-CGN Member, you can participate in our Pilot Engagement Program at no cost.
