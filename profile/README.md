@@ -23,7 +23,7 @@ Visit our home page at https://dgc-cgn.org/ and become a member.
 
 Contribute to our flagship conformity assessment schemes in the respositories below.
 
-** The links below are to the new repos DGC=
+**Please visit the latest repos at the links below on our new organization page at: https://github.com/dgc-cgn.org**
 
 * Conformity Assessment Scheme: [Digital Trust](https://github.com/dgc-cgn/CAS-Digital-Trust)
 * Conformity Assessment Scheme: [Digital Credentials](https://github.com/dgc-cgn/CAS-Digital-Credentials)
